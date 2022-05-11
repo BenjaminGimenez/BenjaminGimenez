@@ -13,4 +13,6 @@ En estos momentos estoy aprendiendo nuevas tecnologias como:
 - 🟢 NODE.JS
 - ⚪ EXPRESS.JS
 - 🟢 MONGO DB
+- 🟠 POSTMAN
+- 🟣 HEROKU
 
