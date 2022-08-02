@@ -1,9 +1,9 @@
 Hola 👋 mi nombre es Benjamin Gimenez!
 
-actualmente estoy terminando el curso de desarrollo web, full stack en RollingCode School 🚀
+soy desarrollador full stack, egresado de RollingCode School 🚀
 
 
-En estos momentos estoy aprendiendo nuevas tecnologias como:
+En estos momentos soy capaz de trabajar con tecnologias como:
 
 - 🟠 HTML
 - 🔵 CSS
