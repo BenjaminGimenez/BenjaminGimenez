@@ -1,9 +1,9 @@
 Hola 👋 mi nombre es Benjamin Gimenez!
 
-soy desarrollador full stack, egresado de RollingCode School 🚀
+Estoy estudiando programacion full stack en RollingCode School 🚀
 
 
-En estos momentos soy capaz de trabajar con tecnologias como:
+En estos momentos estoy aprendiendo a trabajar con tecnologias como:
 
 - 🟠 HTML
 - 🔵 CSS
@@ -13,6 +13,4 @@ En estos momentos soy capaz de trabajar con tecnologias como:
 - 🟢 NODE.JS
 - ⚪ EXPRESS.JS
 - 🟢 MONGO DB
-- 🟠 POSTMAN
-- 🟣 HEROKU
 
